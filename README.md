@@ -1,7 +1,7 @@
 <div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=180&text=Swon's%20GitHub&animation=&fontColor=ffffff&fontSize=50" />
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ 기술 스택 </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
