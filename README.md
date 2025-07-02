@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=speech&color=28a7d6&text=Swon's%20GitHub&fontsize=50)
+![header](https://capsule-render.vercel.app/api?type=speech&color=28a7d6&text=Swon's%20GitHub&fontColor=c8e8eb&fontSize=50)
 
 - 🔭 I’m currently working on ...
 
