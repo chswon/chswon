@@ -1,4 +1,4 @@
-<div align= "center">
+<div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=180&text=Swon's%20GitHub&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center">
@@ -14,7 +14,7 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           </div>
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 연락처 </h2> <br> 
     <div align= "center"> <a href=tndnjs13364@gmail.com> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=tndnjs13364@gmail.com"> </a>
          <a href=mailto:tndnjs13364@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tndnjs13364@gmail.com"> </a>
