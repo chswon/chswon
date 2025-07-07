@@ -1,7 +1,10 @@
 <!-- 👋 웰컴 배너 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=180&text=Swon's%20GitHub&fontColor=ffffff&fontSize=50" />
+<div align="center" style="background: linear-gradient(90deg, #00c6ff, #0072ff); border-radius: 12px; padding: 30px 0;">
+  <h1 style="color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 56px; margin: 0;">
+    Swon's GitHub
+  </h1>
 </div>
+
 
 <!-- 🛠️ 기술 스택 -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ 기술 스택 </h2><br>
