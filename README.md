@@ -42,7 +42,7 @@
   </tbody>
 </table>
 
-<!-- 💡 표 다음 줄바꿈 강제 -->
+<!-- 💡 줄바꿈 강제 -->
 <div style="clear: both;"></div><br><br>
 
 <!-- 📧 연락처 -->
@@ -61,6 +61,22 @@
   </div><br>
 </div>
 
+<!-- 📊 GitHub 통계 -->
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 GitHub 통계 </h2>
+  <div align="center">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=chswon&custom_title=chswon's%20Github%20Stats&show_icons=true&theme=radical" />
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chswon&layout=compact&theme=radical" />
+    <br/>
+    <!-- GitHub 활동 그래프 -->
+    <img src="https://ghchart.rshah.org/chswon" alt="chswon's Github chart" />
+    <br/>
+    <!-- 방문자 수 -->
+    <img src="https://komarev.com/ghpvc/?username=chswon&label=Profile%20views&color=0e75b6&style=flat" />
+  </div>
+</div>
 
 
     
