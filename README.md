@@ -5,7 +5,7 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ 기술 스택 </h2><br>
 
-<table align="center">
+<table align="left">
   <thead>
     <tr>
       <th>구분</th>
