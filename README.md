@@ -4,7 +4,7 @@
 </div>
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ 기술 스택 </h2><br>
-
+<div>
 <table align="left">
   <thead>
     <tr>
@@ -42,7 +42,7 @@
     </tr>
   </tbody>
 </table>
-<br>
+</div>
 
 
 <!-- 📧 연락처 -->
