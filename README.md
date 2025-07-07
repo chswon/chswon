@@ -1,7 +1,4 @@
 <!-- 👋 웰컴 배너 -->
-<div align="center">
-  <img src="https://i.imgur.com/PzF7XQe.png" alt="Swon's GitHub Banner" width="600" />
-</div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; padding: 20px 0; background-color: #1a2a6c; border-radius: 10px;">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Icon" width="50" height="50" />
