@@ -1,6 +1,9 @@
 <!-- 👋 웰컴 배너 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00bfff&height=150&text=Welcome%20to%20Swon's%20GitHub&fontColor=ffffff&fontSize=45&animation=wave" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; padding: 20px 0; background-color: #0d1117; border-radius: 10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Icon" width="50" height="50" />
+  <h1 style="color: #58a6ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 50px; margin: 0;">
+    Swon's GitHub
+  </h1>
 </div>
 
 
