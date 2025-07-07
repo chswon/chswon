@@ -26,7 +26,7 @@
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 연락처 </h2><br>
   <div align="center">
     <!-- Notion: 실제 포트폴리오 링크로 수정하세요 -->
-    <a href="https://your-notion-portfolio-link.com" target="_blank">
+    <a href="https://www.notion.so/1b3484dfae2542fe9a3e7ef38d262eff" target="_blank">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
     </a>
     <!-- Gmail -->
