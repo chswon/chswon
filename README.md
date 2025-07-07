@@ -39,7 +39,7 @@
     <!-- Notion: 여기에 본인의 포트폴리오 주소를 넣으세요 -->
     <a href="https://www.notion.so/229bae2b2f8e80118a0dd728ae45ae58" target="_blank">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-    </a> <br>
+    </a>
     <!-- Gmail -->
     <a href="mailto:tndnjs13364@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
