@@ -61,7 +61,7 @@
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 연락처 </h2><br>
   <div align="left">
     <!-- Notion -->
-    <a href="https://www.notion.so/229bae2b2f8e80118a0dd728ae45ae58" target="_blank">
+    <a href="https://www.notion.so/22abae2b2f8e80958308e9bd9f47d9df" target="_blank">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
     </a>
     <!-- Gmail -->
